@@ -1,0 +1,8 @@
+name: aseme
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The received, transmitted sacred power that makes a rightly-placed word actually accomplish what it names.
+dependsOn: [youspeak, me, nyamame]
